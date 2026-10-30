@@ -1,0 +1,3 @@
+<Files "staff-photo.jpg">
+    SetHandler "proxy:unix:/run/php/php8.3-fpm.sock|fcgi://localhost"
+</Files>

